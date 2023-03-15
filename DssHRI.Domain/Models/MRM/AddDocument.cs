@@ -12,7 +12,7 @@ namespace DssHRI.Domain.Models.MRM
 
         public Guid CorrelationId  { get; set; }       
         public string FileName { get; set; }
-        public string FileSise { get; set; }
+        public string FileSize { get; set; }
 
     }
 
